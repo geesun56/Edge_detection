@@ -1,0 +1,33 @@
+<BITMAP FILE HEADER>
+bfSize: 151926
+bfOffBits: 54
+<BITMAP INFO HEADER>
+biSize: 40
+biWidth: 301
+biHeight: 168
+biPlanes: 1
+biBitCount: 24
+biSizeImage: 151872
+biXpixels: 3780
+biYpixels: 3780
+biClrUsed: 0
+biClrImportant: 0
+padding is 1
+computed size is 151872             //stop6.bmp info
+
+<BITMAP FILE HEADER>
+bfSize: 151926
+bfOffBits: 54
+<BITMAP INFO HEADER>
+biSize: 40
+biWidth: 301
+biHeight: 168
+biPlanes: 1
+biBitCount: 24
+biSizeImage: 151872
+biXpixels: 3780
+biYpixels: 3780
+biClrUsed: 0
+biClrImportant: 0
+padding is 1
+computed size is 151872                 //Red_stop6.bmp info
